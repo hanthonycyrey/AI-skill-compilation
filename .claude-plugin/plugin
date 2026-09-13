@@ -1,1 +1,1 @@
-
+{"name": "cloudflare-design-structure", "description": "Cloudflare.com's structural design language \u2014 grid/layout system, hero composition, bento feature grids, stat-proof bands, 3D/WebGL ambient hero animation, and the signature live agent/workflow status card pattern. Covers STRUCTURE only, not Cloudflare's brand colors or typeface. Use this whenever building or reviewing a landing page, marketing site, or hero section that should feel \"Cloudflare-inspired\" or \"infra-SaaS\" \u2014 including the Tarbajo marketing site \u2014 or whenever the user asks for bento"}
